@@ -3,7 +3,7 @@
 </a>
 
 # Generic Mapping Tools
-## This is chnaged
+## This is changed for ERA Test
 
 ![Tests](https://github.com/GenericMappingTools/gmt/workflows/Tests/badge.svg)
 [![CodeCov](https://img.shields.io/codecov/c/github/GenericMappingTools/gmt.svg)](https://codecov.io/gh/GenericMappingTools/gmt/)
